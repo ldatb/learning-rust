@@ -28,7 +28,7 @@ These are my notes of learning the Rust programming language.
 - [ ] [Chapter 20](https://doc.rust-lang.org/book/ch20-00-final-project-a-web-server.html)
 - [ ] [Chapter 21](https://doc.rust-lang.org/book/appendix-00.html)
 
-### Rust Cookbook (NOT STARDED)
+### Rust Cookbook (NOT STARTED)
 
 - [ ] [1 - Algorithms](https://rust-lang-nursery.github.io/rust-cookbook/algorithms.html)
 - [ ] [2 - Command Line](https://rust-lang-nursery.github.io/rust-cookbook/cli.html#command-line)
