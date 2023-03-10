@@ -1,6 +1,6 @@
 # Learn Rust
 
-These are my notes of learning the Rust programming language following the [Rust Book](https://doc.rust-lang.org/book/)
+These are my notes of learning the Rust programming language.
 
 ## Keeping track
 
